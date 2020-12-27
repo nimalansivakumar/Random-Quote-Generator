@@ -3,6 +3,7 @@
 # 📝Quote Machine
 
 Quote Machine is a random quote generator based on the user selected category.
+
 ![Quote Machine](https://github.com/nimalansivakumar/Random-Quote-Generator/blob/main/imgs/md-image.png)
 
 # Features
