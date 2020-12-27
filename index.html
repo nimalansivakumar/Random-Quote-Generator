@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quote Machine</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link href="style.css" rel="stylesheet">
+    <link href="imgs/quotation.png" rel="icon">
+</head>
+<body>
+    <div class="main">
+
+        <nav class="navbar">
+            <h1 class="nav-text">Quote Machine</h1>
+            <a href="https://github.com/"><button class="img-button"></button></a>
+        </nav>
+
+        <select class="category">
+            <option value="null"selected>Choose category</option>
+            <option value="famous-quotes">Famous-Quotes (Recommended)</option>
+            <option value="friendship">Friendship</option>
+            <option value="life">Life</option>
+            <option value="wisdom">Wisdom</option>
+            <option value="happiness">Happiness</option>
+            <option value="humour">Humour</option>
+            <option value="love">Love</option>
+            <option value="future">Future</option>
+            <option value="nature">Nature</option>
+            <option value="success">Success</option>
+            <option value="education">Education</option>
+            <option value="technology">Technology</option>
+
+        </select>
+        <!--<div class="category">
+            <h1 class="title">"Life"</h1>
+        </div>-->
+
+        <div class="container">
+
+            <div class="text-container">
+
+                <p class="quote-text" id="main-text"></p>
+                <p class="author-text" id="sub-text"></p>
+
+            </div>
+            
+            <div class="buttons-container">
+                <button  class="button" id="copyButton">Copy</button>
+                <button  class="button" id="nextButton">Next</button>
+            </div>
+        
+        </div>
+    </div>
+    
+</body>
+<script src="script.js">
+</script>
+</html>
