@@ -3,13 +3,12 @@
 # 📝Quote Machine
 
 Quote Machine is a random quote generator based on the user selected category.
-
-![Quote Machine](https://github.com/nimalansivakumar/Random-Quote-Generator/blob/main/imgs/md-image.png)
+![Quote Machine](imgs\md-image.png)
 
 # Features
-- 📑 Contains more than 7+ categories
-- 🤵🏼 Famous quotes with author names
-- 🖨️ Users can copy the quote 
+-📑 Contains more than 7+ categories
+-🤵🏼 Famous quotes with author names
+-🖨️ Users can copy the quote 
 
 # API
 - Link
