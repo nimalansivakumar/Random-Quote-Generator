@@ -17,3 +17,6 @@ Quote Machine is a random quote generator based on the user selected category.
 - HTML
 - CSS
 - JAVASCRIPT
+
+# DEMO
+[https://quotemach.netlify.app/](https://quotemach.netlify.app/)
